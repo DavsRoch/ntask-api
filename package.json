@@ -30,7 +30,7 @@
     "morgan": "^1.6.1",
     "passport": "^0.3.2",
     "passport-jwt": "^2.0.0",
-    "sequelize": "^3.19.2",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.2.0",
     "winston": "^2.1.1"
   },
